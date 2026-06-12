@@ -7,9 +7,9 @@ No permission is granted to copy, distribute, modify, or use this code or data f
 
 ## Contents
 
-- `analysis.R` – R script for generalized linear mixed‑effects models (GLMM), paired t‑tests, and descriptive statistics.
-- `Table4_ErrorDistribution.csv` – aggregated error counts per region and error type (as reported in the thesis).
-- `stimuli_list.csv` – list of 75 action pictures and their Russian names.
+- `GLMM_code` – R script for generalized linear mixed‑effects models (GLMM).
+- `GLMM_output` – the result of R script.
+- `Aggregated_data.xlsx` – aggregated error counts per region and error type (as reported in the thesis).
 
 ## Data availability
 
@@ -17,7 +17,7 @@ Raw participant‑level data (including identifiable information) are not shared
 
 ## Usage
 
-Run `analysis.R` in R (requires packages `lme4`, `emmeans`, `tidyverse`). The script loads the aggregated data and reproduces the main statistical results reported in the thesis.
+Run `GLMM_code.R` in R (requires packages `lme4`, `emmeans`, `tidyverse`). The script loads the aggregated data and reproduces the main statistical results reported in the thesis.
 
 ## Contact
 
