@@ -21,9 +21,6 @@ Run `GLMM_code.R` in R (requires packages `lme4`, `emmeans`, `tidyverse`). The s
 
 ## Contact
 
-For access to the raw data (restricted), please contact no one.
-Copyright (c) 2026 [Irina Makarova]. All rights reserved.
-
 This repository and its contents are provided for review purposes only. 
 No part of this repository may be reproduced, distributed, or transmitted 
 in any form or by any means without the prior written permission of the author.
