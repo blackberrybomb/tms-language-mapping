@@ -8,7 +8,7 @@ No permission is granted to copy, distribute, modify, or use this code or data f
 ## Contents
 
 - `GLMM_code` – R script for generalized linear mixed‑effects models (GLMM).
-- `GLMM_output` – the result of R script.
+- `GLMM_results` – the result of R script.
 - `TMS_Master.xlsx` – aggregated error counts per region and error type (as reported in the thesis).
 
 ## Data availability
